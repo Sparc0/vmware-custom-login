@@ -93,7 +93,7 @@ else {
 <div id="productName">
    <script type="text/javascript">
         if (isVCLogin()) {
-          document.write("<img id=\"VCSSO-Title\" src=\"../../resources/img/inception-title.png\" />");
+          document.write("<img id=\"VCSSO-Title\" src=\"../../resources/img/hackernet-title.png\" />");
            }
    </script>
    <div id="response" style="display:none"></div>
@@ -116,6 +116,9 @@ else {
       $(".browser-validation-banner").css("visibility","visible");
    }
 </script>
+
+<audio autoplay="autoplay" loop="loop">
+<source src="../../resources/mp3/freestylo.mp3" /></audio>
 
 </body>
 </html>
